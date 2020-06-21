@@ -2471,13 +2471,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #AE0000	;
+  border-color: #CE0000;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #fec810;
-  border-color: #fec503;
+  background-color: #930000;
+  border-color: #AE0000;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -10097,7 +10097,7 @@ img::-moz-selection {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #AE0000;
 }
 
 @media (min-width: 992px) {
